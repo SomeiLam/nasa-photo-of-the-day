@@ -81,8 +81,6 @@ const StyledDetails = styled.div`
     top: 60%;
     left: 50%;
     transform: translate(-50%, -50%);
-    opacity: 0.5;
-    background-color: rgb(10, 10, 10);
 `
 
 export default function Photo(props) {
